@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "module": "esnext",
+        "strict": true,
+        "moduleResolution": "nodenext"
+    },
+    "files": ["demo.ts", "index.ts"]
+}
